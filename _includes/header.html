@@ -41,6 +41,12 @@
     <header>
         <div class="container">
             <div class="intro-text">
+            <ul class="nav-social">
+                          {% for network in site.social %}
+                          <li class="social"><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                          </li>
+                          {% endfor %}
+                      </ul>
                 <div class="intro-heading">Joey Aza</div>
                 <div class="intro-lead-in">Junior Web Developer</div>
                 
