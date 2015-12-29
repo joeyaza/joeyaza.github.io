@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: HAPPY
+subtitle: Ruby on Rails Site
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: happy2.png
+thumbnail: happy1.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: https://happytravels.herokuapp.com/
+category: https://github.com/joeyaza/SECOND-WDI-PROJECT
+description: A cross between a travel website and Flickr. Users can log-in and add a picture of places they have travelled too which have made them happy. Others can then browse these pictures, add comments and decide on their next travelling destination. Their is also an inspire me function, which randomly generates a place from the database and displays the pictures to the user, offering travel stimulation.
 
 ---

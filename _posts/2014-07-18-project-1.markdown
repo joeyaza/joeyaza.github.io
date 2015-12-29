@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: BUBBLES
+subtitle: JavaScript and jQuery Game
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: bubbles.png
+thumbnail: bubbles.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: https://limitless-bayou-7900.herokuapp.com/
+category: https://github.com/joeyaza/FIRST-WDI-PROJECT
+description: An audio and visual game or an ethereal experience, where the player pops bubbles which randomly generate on the screen. Completed for my first project after one and a half weeks of learning, using JavaScript and jQuery and styled using CSS. Remember to turn the sound up!
 
 ---

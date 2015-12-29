@@ -1,5 +1,5 @@
 url: https://y7kim.github.io
-baseurl: http://joeyaza.github.io
+baseurl: http://joeyaza.github.io/
 
 # Site settings
 title: Joey Aza
@@ -49,16 +49,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: http://instagram.com/joeyaza
+  - title: linkedin  
+    url: https://uk.linkedin.com/in/joseph-azadehdel-0b3b1836
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/joeyaza
 
 # Postal address (add as many lines as necessary)
 address:
