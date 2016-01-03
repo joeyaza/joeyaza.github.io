@@ -886,3 +886,13 @@ a.email {
     font-size: 50px;
     text-shadow: 2px 2px white;
 }
+
+.profile {
+    background-image: url('img/about/ja.jpg');
+    background-size: 90%;
+}
+
+.trent {
+    background-image: url('img/about/trent.png');
+    background-size: 90%;
+}
