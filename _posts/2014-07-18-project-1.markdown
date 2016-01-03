@@ -6,8 +6,8 @@ modal-id: 1
 img: bubbles.png
 thumbnail: bubbles.png
 alt: image-alt
-client: https://limitless-bayou-7900.herokuapp.com/
-category: https://github.com/joeyaza/FIRST-WDI-PROJECT
+app: http://limitless-bayou-7900.herokuapp.com/
+github: http://github.com/joeyaza/FIRST-WDI-PROJECT
 description: An audio and visual game or an ethereal experience, where the player pops bubbles which randomly generate on the screen. Completed for my first project after one and a half weeks of learning, using JavaScript and jQuery and styled using CSS. Remember to turn the sound up!
 
 ---

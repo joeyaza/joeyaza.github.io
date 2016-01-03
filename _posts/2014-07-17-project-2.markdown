@@ -8,8 +8,8 @@ img: happy2.png
 thumbnail: happy1.png
 alt: image-alt
 project-date: April 2014
-client: https://happytravels.herokuapp.com/
-category: https://github.com/joeyaza/SECOND-WDI-PROJECT
+app: http://happytravels.herokuapp.com/
+github: http://github.com/joeyaza/SECOND-WDI-PROJECT
 description: A cross between a travel website and Flickr. Users can log-in and add a picture of places they have travelled too which have made them happy. Others can then browse these pictures, add comments and decide on their next travelling destination. Their is also an inspire me function, which randomly generates a place from the database and displays the pictures to the user, offering travel stimulation.
 
 ---

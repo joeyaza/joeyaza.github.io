@@ -8,8 +8,8 @@ img: ghost1.png
 thumbnail: ghost1.png
 alt: image-alt
 project-date: April 2014
-client: http://joeyaza.github.io/GhostStories/
-category: https://github.com/joeyaza/FINAL-PROJECT
+app: http://joeyaza.github.io/GhostStories/
+github: http://github.com/joeyaza/FINAL-PROJECT
 description: For my final project I built a story making app using a MEAN Stack. With additional styling using SASS, CSS and JavaScript. A user can log in to the site, locally or using Facebook and fill in a form to create a new story. The user can paste the story and link images and the story will be created using a parallax affect for users to scroll through and enjoy.
 
 ---
