@@ -896,3 +896,7 @@ a.email {
     background-image: url('img/about/trent.png');
     background-size: 100%;
 }
+
+.service-box {
+    max-width: 300px;
+}
