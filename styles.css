@@ -1336,7 +1336,8 @@ button.primary {
   border: solid 3px #2e00df;
   color: #2e00df;
   padding: 8px 40px;
-  width: 90%; }
+  width: 90%;
+  background: white; }
   button.primary:hover {
     background: #2e00df;
     color: white; }
