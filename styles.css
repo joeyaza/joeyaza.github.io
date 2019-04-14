@@ -1159,7 +1159,6 @@ blockquote,
 
 header {
   padding-top: 50px;
-  padding-bottom: 40px;
   /*background: linear-gradient(-283deg, #0e73df , #2ce4b5);*/
   /*    background-image: url("../img/header-background.png");
     background-position: center;
@@ -1172,7 +1171,7 @@ header {
 
 .header-background {
   position: absolute;
-  margin-top: -160px; }
+  margin-top: -180px; }
 
 .header-text-wrapper {
   z-index: 5; }
@@ -1188,7 +1187,10 @@ header {
 /*medium*/
 @media (min-width: 768px) {
   header {
-    padding-bottom: 100px; }
+    padding-bottom: 60px; }
+  .header-background {
+    position: absolute;
+    margin-top: -260px; }
   /*.header-logo {
 		position: absolute;
 	}
@@ -1197,7 +1199,7 @@ header {
 /*extra large*/
 @media (min-width: 991px) {
   header {
-    padding-bottom: 140px; }
+    /*padding-bottom: 140px;*/ }
   /*
     header:before {
     content: "";
@@ -1347,8 +1349,9 @@ button.secondary {
   color: white;
   padding: 10px 40px; }
   button.secondary:hover {
-    background: white;
-    color: #ff8b5c; }
+    background: #ffd28c;
+    /*color: #ff8b5c;*/
+    /*opacity: 0.6;*/ }
 
 .thirdly {
   border: solid 3px white;
